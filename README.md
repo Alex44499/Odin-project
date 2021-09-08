@@ -1,1 +1,1 @@
-# Odin-project-embedding-image---video
+# Odin-project:Embedding-Images-and-Video
