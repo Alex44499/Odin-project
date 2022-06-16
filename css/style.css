@@ -1,0 +1,45 @@
+h1,
+h2,
+h3,
+div.description,
+.home {
+  display: block;
+  text-align: center;
+}
+
+div.description p {
+	display: block;
+	width: 700px;
+	margin-left: 320px;
+	justify-content: left;
+}
+p {
+	display: flex;
+	text-align: left;
+
+	
+}
+div.chef_image,
+div.container_myUL,
+div.eggs_img {
+  display: flex;
+  justify-content: center;
+}
+
+.eggs, .list, .steps {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+  list-style: square;
+}
+
+li {
+	
+  	margin: 10px 0;
+}
+
+div.steps {
+	width: 700px;
+}
