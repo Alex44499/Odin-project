@@ -16,8 +16,8 @@ The Odin Project curriculum was used for this task. I have learn how to :
 - CSS
 
 # References
-https://www.pinterest.com/pin/563020390888233986/
-https://www.allrecipes.com
-https://www.theodinproject.com/lessons/foundations-recipes
+- https://www.pinterest.com/pin/563020390888233986/
+- https://www.allrecipes.com
+- https://www.theodinproject.com/lessons/foundations-recipes
 
 
